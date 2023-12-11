@@ -30,3 +30,5 @@ print(a)
 print(b)
 
 c.find('s') # com a função FIND você encontra em que posição está a letra 's'
+
+print(c)
